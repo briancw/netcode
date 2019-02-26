@@ -1,0 +1,24 @@
+{
+  "name": "netcode-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briancw/netcode.git"
+  },
+  "keywords": [],
+  "author": "Brian Whicheloe <brian@whicheloe.us> (https://whicheloe.us/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briancw/netcode/issues"
+  },
+  "homepage": "https://github.com/briancw/netcode#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
+}
